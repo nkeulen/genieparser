@@ -1,0 +1,6 @@
+   Line            User                 Service  Conns   Idle        Location
+   con0/0/CPU0     pyats                hardware     0  00:12:36     
+   vty0            pyats                ssh          0  00:11:45     10.0.0.53
+   vty1            cisco                ssh          0  00:12:38     10.0.0.54
+   vty2            pyats                ssh          0  00:12:37     10.0.0.55
+*  vty3            cisco                ssh          0  00:00:00     10.0.0.56
